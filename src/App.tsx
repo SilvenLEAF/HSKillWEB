@@ -1,25 +1,57 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import 'materialize-css/dist/css/materialize.min.css'
+
+
+
+import React, { useEffect, useState } from 'react';
+import { BrowserRouter } from 'react-router-dom';
+
+
+import RootAppStucture from './PAGES/RootAppStructure';
+import RootContext from './contexts/RootContext';
+import { AuthContext } from './contexts/subContexts/AuthContext';
+
+
+// interfaces
+import UserDataInterface from './interfaces/UserDataInterface';
+
+
+
+
+
+
 
 function App() {
+  const [userData, setUserData] = useState<UserDataInterface>();
+  
+
+  useEffect(()=>{
+    const getLoggedInUser = async () =>{
+      const res = await fetch('/user');
+      const data = await res.json();
+      
+      console.log(data);
+      
+      if(data.user) {
+        setUserData(data.user);
+        
+      }
+    }
+
+    getLoggedInUser();
+
+  }, [])
+
+
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter basename="/">
+      <AuthContext.Provider value={{ userData, setUserData }} >
+        <RootContext >
+          <div className="App"><RootAppStucture/></div>
+        </RootContext>
+      </AuthContext.Provider>
+    </BrowserRouter>
   );
 }
 
