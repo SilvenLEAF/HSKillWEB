@@ -1,0 +1,602 @@
+[
+  {
+    "hanzi": "我",
+    "meaning": "I, me"
+  },
+  {
+    "hanzi": "我们",
+    "meaning": "we, us"
+  },
+  {
+    "hanzi": "你",
+    "meaning": "you"
+  },
+  {
+    "hanzi": "你们",
+    "meaning": "you (pl.)"
+  },
+  {
+    "hanzi": "他",
+    "meaning": "he, him"
+  },
+  {
+    "hanzi": "她",
+    "meaning": "she, her"
+  },
+  {
+    "hanzi": "他们",
+    "meaning": "they"
+  },
+  {
+    "hanzi": "她们",
+    "meaning": "they (females, pl.)"
+  },
+  {
+    "hanzi": "这 (这儿)",
+    "meaning": "here, this"
+  },
+  {
+    "hanzi": "那 (那儿)",
+    "meaning": "there, that"
+  },
+  {
+    "hanzi": "哪（哪儿）",
+    "meaning": "where"
+  },
+  {
+    "hanzi": "谁",
+    "meaning": "who"
+  },
+  {
+    "hanzi": "什么",
+    "meaning": "what, why"
+  },
+  {
+    "hanzi": "多少",
+    "meaning": "how many, how much"
+  },
+  {
+    "hanzi": "几",
+    "meaning": "a few, how many"
+  },
+  {
+    "hanzi": "怎么",
+    "meaning": "how"
+  },
+  {
+    "hanzi": "怎么样",
+    "meaning": "how about"
+  },
+  {
+    "hanzi": "一",
+    "meaning": "one"
+  },
+  {
+    "hanzi": "二",
+    "meaning": "two"
+  },
+  {
+    "hanzi": "三",
+    "meaning": "three"
+  },
+  {
+    "hanzi": "四",
+    "meaning": "four"
+  },
+  {
+    "hanzi": "五",
+    "meaning": "five"
+  },
+  {
+    "hanzi": "六",
+    "meaning": "six"
+  },
+  {
+    "hanzi": "七",
+    "meaning": "seven"
+  },
+  {
+    "hanzi": "八",
+    "meaning": "eight"
+  },
+  {
+    "hanzi": "九",
+    "meaning": "nine"
+  },
+  {
+    "hanzi": "十",
+    "meaning": "ten"
+  },
+  {
+    "hanzi": "零",
+    "meaning": "zero"
+  },
+  {
+    "hanzi": "个",
+    "meaning": "a, an"
+  },
+  {
+    "hanzi": "岁",
+    "meaning": "year"
+  },
+  {
+    "hanzi": "本",
+    "meaning": "volume"
+  },
+  {
+    "hanzi": "些",
+    "meaning": "some"
+  },
+  {
+    "hanzi": "块",
+    "meaning": "piece"
+  },
+  {
+    "hanzi": "不",
+    "meaning": "no"
+  },
+  {
+    "hanzi": "没",
+    "meaning": "no"
+  },
+  {
+    "hanzi": "很",
+    "meaning": "quite, very"
+  },
+  {
+    "hanzi": "太",
+    "meaning": "too"
+  },
+  {
+    "hanzi": "都",
+    "meaning": "all"
+  },
+  {
+    "hanzi": "和",
+    "meaning": "and"
+  },
+  {
+    "hanzi": "在",
+    "meaning": "in, at"
+  },
+  {
+    "hanzi": "吗",
+    "meaning": "Yes/No Question maker"
+  },
+  {
+    "hanzi": "喂",
+    "meaning": "hello"
+  },
+  {
+    "hanzi": "家",
+    "meaning": "home"
+  },
+  {
+    "hanzi": "学校",
+    "meaning": "school"
+  },
+  {
+    "hanzi": "饭店",
+    "meaning": "restaurant"
+  },
+  {
+    "hanzi": "商店",
+    "meaning": "store"
+  },
+  {
+    "hanzi": "医院",
+    "meaning": "hospital"
+  },
+  {
+    "hanzi": "火车站",
+    "meaning": "train station"
+  },
+  {
+    "hanzi": "中国",
+    "meaning": "China"
+  },
+  {
+    "hanzi": "北京",
+    "meaning": "Beijing"
+  },
+  {
+    "hanzi": "上",
+    "meaning": "up"
+  },
+  {
+    "hanzi": "下",
+    "meaning": "down"
+  },
+  {
+    "hanzi": "前面",
+    "meaning": "front"
+  },
+  {
+    "hanzi": "后面",
+    "meaning": "behind"
+  },
+  {
+    "hanzi": "里",
+    "meaning": "inside"
+  },
+  {
+    "hanzi": "今天",
+    "meaning": "today"
+  },
+  {
+    "hanzi": "明天",
+    "meaning": "tomorrow"
+  },
+  {
+    "hanzi": "昨天",
+    "meaning": "yesterday"
+  },
+  {
+    "hanzi": "上午",
+    "meaning": "morning"
+  },
+  {
+    "hanzi": "中午",
+    "meaning": "noon"
+  },
+  {
+    "hanzi": "下午",
+    "meaning": "afternoon"
+  },
+  {
+    "hanzi": "年",
+    "meaning": "year"
+  },
+  {
+    "hanzi": "月",
+    "meaning": "month"
+  },
+  {
+    "hanzi": "日",
+    "meaning": "day"
+  },
+  {
+    "hanzi": "星期",
+    "meaning": "week"
+  },
+  {
+    "hanzi": "点",
+    "meaning": "dot, spot"
+  },
+  {
+    "hanzi": "分钟",
+    "meaning": "minute"
+  },
+  {
+    "hanzi": "现在",
+    "meaning": "now"
+  },
+  {
+    "hanzi": "时候",
+    "meaning": "time"
+  },
+  {
+    "hanzi": "爸爸",
+    "meaning": "father"
+  },
+  {
+    "hanzi": "妈妈",
+    "meaning": "mother"
+  },
+  {
+    "hanzi": "儿子",
+    "meaning": "son"
+  },
+  {
+    "hanzi": "女儿",
+    "meaning": "daughter"
+  },
+  {
+    "hanzi": "老师",
+    "meaning": "teacher"
+  },
+  {
+    "hanzi": "学生",
+    "meaning": "student"
+  },
+  {
+    "hanzi": "同学",
+    "meaning": "classmate"
+  },
+  {
+    "hanzi": "朋友",
+    "meaning": "friend"
+  },
+  {
+    "hanzi": "医生",
+    "meaning": "doctor"
+  },
+  {
+    "hanzi": "先生",
+    "meaning": "sir"
+  },
+  {
+    "hanzi": "小姐",
+    "meaning": "Miss"
+  },
+  {
+    "hanzi": "衣服",
+    "meaning": "cloth"
+  },
+  {
+    "hanzi": "水",
+    "meaning": "water"
+  },
+  {
+    "hanzi": "菜",
+    "meaning": "vegetable"
+  },
+  {
+    "hanzi": "米饭",
+    "meaning": "rice"
+  },
+  {
+    "hanzi": "水果",
+    "meaning": "fruit"
+  },
+  {
+    "hanzi": "苹果",
+    "meaning": "apple"
+  },
+  {
+    "hanzi": "茶",
+    "meaning": "tea"
+  },
+  {
+    "hanzi": "杯子",
+    "meaning": "cup"
+  },
+  {
+    "hanzi": "钱",
+    "meaning": "money"
+  },
+  {
+    "hanzi": "飞机",
+    "meaning": "airplane"
+  },
+  {
+    "hanzi": "出租车",
+    "meaning": "taxi"
+  },
+  {
+    "hanzi": "电视",
+    "meaning": "television"
+  },
+  {
+    "hanzi": "电脑",
+    "meaning": "computer"
+  },
+  {
+    "hanzi": "电影",
+    "meaning": "movie"
+  },
+  {
+    "hanzi": "天气",
+    "meaning": "weather"
+  },
+  {
+    "hanzi": "猫",
+    "meaning": "cat"
+  },
+  {
+    "hanzi": "狗",
+    "meaning": "dog"
+  },
+  {
+    "hanzi": "东西",
+    "meaning": "thing"
+  },
+  {
+    "hanzi": "人",
+    "meaning": "person"
+  },
+  {
+    "hanzi": "名字",
+    "meaning": "name"
+  },
+  {
+    "hanzi": "书",
+    "meaning": "book"
+  },
+  {
+    "hanzi": "汉语",
+    "meaning": "Chinese"
+  },
+  {
+    "hanzi": "字",
+    "meaning": "character"
+  },
+  {
+    "hanzi": "桌子",
+    "meaning": "desk"
+  },
+  {
+    "hanzi": "椅子",
+    "meaning": "chair"
+  },
+  {
+    "hanzi": "谢谢",
+    "meaning": "thank"
+  },
+  {
+    "hanzi": "不客气",
+    "meaning": "you are welcome"
+  },
+  {
+    "hanzi": "再见",
+    "meaning": "good-bye"
+  },
+  {
+    "hanzi": "请",
+    "meaning": "please"
+  },
+  {
+    "hanzi": "对不起",
+    "meaning": "sorry"
+  },
+  {
+    "hanzi": "没关系",
+    "meaning": "It doesn’t matter"
+  },
+  {
+    "hanzi": "是",
+    "meaning": "be (am, is, are)"
+  },
+  {
+    "hanzi": "有",
+    "meaning": "have"
+  },
+  {
+    "hanzi": "看",
+    "meaning": "look"
+  },
+  {
+    "hanzi": "听",
+    "meaning": "listen"
+  },
+  {
+    "hanzi": "说话",
+    "meaning": "speak"
+  },
+  {
+    "hanzi": "读",
+    "meaning": "read"
+  },
+  {
+    "hanzi": "写",
+    "meaning": "write"
+  },
+  {
+    "hanzi": "看见",
+    "meaning": "see"
+  },
+  {
+    "hanzi": "叫",
+    "meaning": "call"
+  },
+  {
+    "hanzi": "来",
+    "meaning": "come"
+  },
+  {
+    "hanzi": "回",
+    "meaning": "return"
+  },
+  {
+    "hanzi": "去",
+    "meaning": "go"
+  },
+  {
+    "hanzi": "吃",
+    "meaning": "eat"
+  },
+  {
+    "hanzi": "喝",
+    "meaning": "drink"
+  },
+  {
+    "hanzi": "睡觉",
+    "meaning": "sleep"
+  },
+  {
+    "hanzi": "打电话",
+    "meaning": "call up"
+  },
+  {
+    "hanzi": "做",
+    "meaning": "do"
+  },
+  {
+    "hanzi": "买",
+    "meaning": "buy"
+  },
+  {
+    "hanzi": "开",
+    "meaning": "open"
+  },
+  {
+    "hanzi": "坐",
+    "meaning": "sit"
+  },
+  {
+    "hanzi": "住",
+    "meaning": "live"
+  },
+  {
+    "hanzi": "学习",
+    "meaning": "study"
+  },
+  {
+    "hanzi": "工作",
+    "meaning": "work"
+  },
+  {
+    "hanzi": "下雨",
+    "meaning": "rain"
+  },
+  {
+    "hanzi": "爱",
+    "meaning": "love"
+  },
+  {
+    "hanzi": "喜欢",
+    "meaning": "love, like"
+  },
+  {
+    "hanzi": "想",
+    "meaning": "want"
+  },
+  {
+    "hanzi": "认识",
+    "meaning": "know"
+  },
+  {
+    "hanzi": "会",
+    "meaning": "can"
+  },
+  {
+    "hanzi": "能",
+    "meaning": "can, be able to"
+  },
+  {
+    "hanzi": "好",
+    "meaning": "good"
+  },
+  {
+    "hanzi": "大",
+    "meaning": "big"
+  },
+  {
+    "hanzi": "小",
+    "meaning": "small"
+  },
+  {
+    "hanzi": "多",
+    "meaning": "many, much"
+  },
+  {
+    "hanzi": "少",
+    "meaning": "few, little"
+  },
+  {
+    "hanzi": "冷",
+    "meaning": "cold"
+  },
+  {
+    "hanzi": "热",
+    "meaning": "hot"
+  },
+  {
+    "hanzi": "高兴",
+    "meaning": "happy"
+  },
+  {
+    "hanzi": "漂亮",
+    "meaning": "beautiful"
+  }
+]
