@@ -1,25 +1,32 @@
 {
   "files": {
     "main.css": "/HSKill/static/css/main.7bcff35f.chunk.css",
-    "main.js": "/HSKill/static/js/main.15c56d51.chunk.js",
-    "main.js.map": "/HSKill/static/js/main.15c56d51.chunk.js.map",
-    "runtime-main.js": "/HSKill/static/js/runtime-main.2955e97b.js",
-    "runtime-main.js.map": "/HSKill/static/js/runtime-main.2955e97b.js.map",
+    "main.js": "/HSKill/static/js/main.bc061845.chunk.js",
+    "main.js.map": "/HSKill/static/js/main.bc061845.chunk.js.map",
+    "runtime-main.js": "/HSKill/static/js/runtime-main.b78ccb33.js",
+    "runtime-main.js.map": "/HSKill/static/js/runtime-main.b78ccb33.js.map",
     "static/css/2.0bdff0a3.chunk.css": "/HSKill/static/css/2.0bdff0a3.chunk.css",
-    "static/js/2.bf1caf13.chunk.js": "/HSKill/static/js/2.bf1caf13.chunk.js",
-    "static/js/2.bf1caf13.chunk.js.map": "/HSKill/static/js/2.bf1caf13.chunk.js.map",
-    "static/js/3.92813db8.chunk.js": "/HSKill/static/js/3.92813db8.chunk.js",
-    "static/js/3.92813db8.chunk.js.map": "/HSKill/static/js/3.92813db8.chunk.js.map",
+    "static/js/2.20507364.chunk.js": "/HSKill/static/js/2.20507364.chunk.js",
+    "static/js/2.20507364.chunk.js.map": "/HSKill/static/js/2.20507364.chunk.js.map",
+    "static/js/3.de655496.chunk.js": "/HSKill/static/js/3.de655496.chunk.js",
+    "static/js/3.de655496.chunk.js.map": "/HSKill/static/js/3.de655496.chunk.js.map",
+    "static/js/4.6b6618b4.chunk.js": "/HSKill/static/js/4.6b6618b4.chunk.js",
+    "static/js/4.6b6618b4.chunk.js.map": "/HSKill/static/js/4.6b6618b4.chunk.js.map",
     "index.html": "/HSKill/index.html",
     "static/css/2.0bdff0a3.chunk.css.map": "/HSKill/static/css/2.0bdff0a3.chunk.css.map",
     "static/css/main.7bcff35f.chunk.css.map": "/HSKill/static/css/main.7bcff35f.chunk.css.map",
-    "static/js/2.bf1caf13.chunk.js.LICENSE.txt": "/HSKill/static/js/2.bf1caf13.chunk.js.LICENSE.txt"
+    "static/js/2.20507364.chunk.js.LICENSE.txt": "/HSKill/static/js/2.20507364.chunk.js.LICENSE.txt",
+    "static/js/3.de655496.chunk.js.LICENSE.txt": "/HSKill/static/js/3.de655496.chunk.js.LICENSE.txt",
+    "static/media/sound-1.ae2de8e7.wav": "/HSKill/static/media/sound-1.ae2de8e7.wav",
+    "static/media/sound-4.2af9eb25.wav": "/HSKill/static/media/sound-4.2af9eb25.wav",
+    "static/media/sound-5.7dd837f9.wav": "/HSKill/static/media/sound-5.7dd837f9.wav",
+    "static/media/sound-6.2604a56c.wav": "/HSKill/static/media/sound-6.2604a56c.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.2955e97b.js",
+    "static/js/runtime-main.b78ccb33.js",
     "static/css/2.0bdff0a3.chunk.css",
-    "static/js/2.bf1caf13.chunk.js",
+    "static/js/2.20507364.chunk.js",
     "static/css/main.7bcff35f.chunk.css",
-    "static/js/main.15c56d51.chunk.js"
+    "static/js/main.bc061845.chunk.js"
   ]
 }
