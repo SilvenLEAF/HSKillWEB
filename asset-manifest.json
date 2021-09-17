@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/HSKill/static/css/main.7bcff35f.chunk.css",
-    "main.js": "/HSKill/static/js/main.329cb2f1.chunk.js",
-    "main.js.map": "/HSKill/static/js/main.329cb2f1.chunk.js.map",
+    "main.css": "/HSKill/static/css/main.b237ff61.chunk.css",
+    "main.js": "/HSKill/static/js/main.f91ffa33.chunk.js",
+    "main.js.map": "/HSKill/static/js/main.f91ffa33.chunk.js.map",
     "runtime-main.js": "/HSKill/static/js/runtime-main.b78ccb33.js",
     "runtime-main.js.map": "/HSKill/static/js/runtime-main.b78ccb33.js.map",
     "static/css/2.0bdff0a3.chunk.css": "/HSKill/static/css/2.0bdff0a3.chunk.css",
@@ -14,7 +14,7 @@
     "static/js/4.6b6618b4.chunk.js.map": "/HSKill/static/js/4.6b6618b4.chunk.js.map",
     "index.html": "/HSKill/index.html",
     "static/css/2.0bdff0a3.chunk.css.map": "/HSKill/static/css/2.0bdff0a3.chunk.css.map",
-    "static/css/main.7bcff35f.chunk.css.map": "/HSKill/static/css/main.7bcff35f.chunk.css.map",
+    "static/css/main.b237ff61.chunk.css.map": "/HSKill/static/css/main.b237ff61.chunk.css.map",
     "static/js/2.20507364.chunk.js.LICENSE.txt": "/HSKill/static/js/2.20507364.chunk.js.LICENSE.txt",
     "static/js/3.de655496.chunk.js.LICENSE.txt": "/HSKill/static/js/3.de655496.chunk.js.LICENSE.txt",
     "static/media/sound-1.ae2de8e7.wav": "/HSKill/static/media/sound-1.ae2de8e7.wav",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.b78ccb33.js",
     "static/css/2.0bdff0a3.chunk.css",
     "static/js/2.20507364.chunk.js",
-    "static/css/main.7bcff35f.chunk.css",
-    "static/js/main.329cb2f1.chunk.js"
+    "static/css/main.b237ff61.chunk.css",
+    "static/js/main.f91ffa33.chunk.js"
   ]
 }
