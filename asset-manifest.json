@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HSKill/static/css/main.7bcff35f.chunk.css",
+    "main.js": "/HSKill/static/js/main.320ea5fe.chunk.js",
+    "main.js.map": "/HSKill/static/js/main.320ea5fe.chunk.js.map",
+    "runtime-main.js": "/HSKill/static/js/runtime-main.2955e97b.js",
+    "runtime-main.js.map": "/HSKill/static/js/runtime-main.2955e97b.js.map",
+    "static/css/2.0bdff0a3.chunk.css": "/HSKill/static/css/2.0bdff0a3.chunk.css",
+    "static/js/2.6fcce9cd.chunk.js": "/HSKill/static/js/2.6fcce9cd.chunk.js",
+    "static/js/2.6fcce9cd.chunk.js.map": "/HSKill/static/js/2.6fcce9cd.chunk.js.map",
+    "static/js/3.92813db8.chunk.js": "/HSKill/static/js/3.92813db8.chunk.js",
+    "static/js/3.92813db8.chunk.js.map": "/HSKill/static/js/3.92813db8.chunk.js.map",
+    "index.html": "/HSKill/index.html",
+    "static/css/2.0bdff0a3.chunk.css.map": "/HSKill/static/css/2.0bdff0a3.chunk.css.map",
+    "static/css/main.7bcff35f.chunk.css.map": "/HSKill/static/css/main.7bcff35f.chunk.css.map",
+    "static/js/2.6fcce9cd.chunk.js.LICENSE.txt": "/HSKill/static/js/2.6fcce9cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2955e97b.js",
+    "static/css/2.0bdff0a3.chunk.css",
+    "static/js/2.6fcce9cd.chunk.js",
+    "static/css/main.7bcff35f.chunk.css",
+    "static/js/main.320ea5fe.chunk.js"
+  ]
+}
