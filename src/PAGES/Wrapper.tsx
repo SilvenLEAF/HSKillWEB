@@ -28,6 +28,7 @@ import ChangeEmail from '../components/auth/verify/ChangeEmail';
 
 import EditTask from '../components/dashboard/EditTask';
 import Dashboard from '../components/dashboard/Dashboard';
+import HSKill from '../components/hsk/HSKill';
 
 
 
@@ -41,7 +42,7 @@ function Wrapper() {
       <Switch location={ location } key={ location.key } >
 
 
-      <Route exact path="/" component={Home} />
+      <Route exact path="/" component={HSKill} />
         
         <Route path="/dashboard" component={Dashboard} />
         <Route path="/editTask/:id" component={EditTask} />

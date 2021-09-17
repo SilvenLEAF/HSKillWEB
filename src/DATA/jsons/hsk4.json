@@ -1,0 +1,2402 @@
+[
+  {
+    "hanzi": "安排",
+    "meaning": "arrange"
+  },
+  {
+    "hanzi": "安全",
+    "meaning": "security"
+  },
+  {
+    "hanzi": "暗",
+    "meaning": "dark"
+  },
+  {
+    "hanzi": "按时",
+    "meaning": "on time"
+  },
+  {
+    "hanzi": "按照",
+    "meaning": "according to"
+  },
+  {
+    "hanzi": "包括",
+    "meaning": "include"
+  },
+  {
+    "hanzi": "保护",
+    "meaning": "protect"
+  },
+  {
+    "hanzi": "保证",
+    "meaning": "ensure"
+  },
+  {
+    "hanzi": "抱",
+    "meaning": "hold"
+  },
+  {
+    "hanzi": "抱歉",
+    "meaning": "sorry"
+  },
+  {
+    "hanzi": "报道",
+    "meaning": "report"
+  },
+  {
+    "hanzi": "报名",
+    "meaning": "sign up"
+  },
+  {
+    "hanzi": "倍",
+    "meaning": "times"
+  },
+  {
+    "hanzi": "本来",
+    "meaning": "originally"
+  },
+  {
+    "hanzi": "笨",
+    "meaning": "stupid"
+  },
+  {
+    "hanzi": "笔记本",
+    "meaning": "notebook"
+  },
+  {
+    "hanzi": "毕业",
+    "meaning": "graduation"
+  },
+  {
+    "hanzi": "遍",
+    "meaning": "(one/two) time(s)"
+  },
+  {
+    "hanzi": "标准",
+    "meaning": "standard"
+  },
+  {
+    "hanzi": "表达",
+    "meaning": "Expression"
+  },
+  {
+    "hanzi": "表格",
+    "meaning": "form"
+  },
+  {
+    "hanzi": "表扬",
+    "meaning": "praise"
+  },
+  {
+    "hanzi": "饼干",
+    "meaning": "cookies"
+  },
+  {
+    "hanzi": "并且",
+    "meaning": "also"
+  },
+  {
+    "hanzi": "博士",
+    "meaning": "doctor"
+  },
+  {
+    "hanzi": "不但",
+    "meaning": "not only"
+  },
+  {
+    "hanzi": "不过",
+    "meaning": "however"
+  },
+  {
+    "hanzi": "不得不",
+    "meaning": "have to"
+  },
+  {
+    "hanzi": "不管",
+    "meaning": "no matter"
+  },
+  {
+    "hanzi": "不仅",
+    "meaning": "not only"
+  },
+  {
+    "hanzi": "部分",
+    "meaning": "a part"
+  },
+  {
+    "hanzi": "擦",
+    "meaning": "wipe"
+  },
+  {
+    "hanzi": "猜",
+    "meaning": "guess"
+  },
+  {
+    "hanzi": "材料",
+    "meaning": "material"
+  },
+  {
+    "hanzi": "参观",
+    "meaning": "visit"
+  },
+  {
+    "hanzi": "差不多",
+    "meaning": "almost"
+  },
+  {
+    "hanzi": "尝",
+    "meaning": "taste"
+  },
+  {
+    "hanzi": "长城",
+    "meaning": "Great Wall"
+  },
+  {
+    "hanzi": "长江",
+    "meaning": "Yangtze River"
+  },
+  {
+    "hanzi": "场",
+    "meaning": "site"
+  },
+  {
+    "hanzi": "超过",
+    "meaning": "exceed"
+  },
+  {
+    "hanzi": "吵",
+    "meaning": "noisy"
+  },
+  {
+    "hanzi": "成功",
+    "meaning": "success"
+  },
+  {
+    "hanzi": "成熟",
+    "meaning": "mature"
+  },
+  {
+    "hanzi": "成为",
+    "meaning": "become"
+  },
+  {
+    "hanzi": "诚实",
+    "meaning": "honest"
+  },
+  {
+    "hanzi": "乘坐",
+    "meaning": "ride"
+  },
+  {
+    "hanzi": "吃惊",
+    "meaning": "be amazed"
+  },
+  {
+    "hanzi": "重新",
+    "meaning": "again"
+  },
+  {
+    "hanzi": "抽烟",
+    "meaning": "smoking"
+  },
+  {
+    "hanzi": "出差",
+    "meaning": "business trip"
+  },
+  {
+    "hanzi": "出发",
+    "meaning": "set out"
+  },
+  {
+    "hanzi": "出生",
+    "meaning": "birth"
+  },
+  {
+    "hanzi": "传真",
+    "meaning": "fax"
+  },
+  {
+    "hanzi": "窗户",
+    "meaning": "window"
+  },
+  {
+    "hanzi": "词典",
+    "meaning": "dictionary"
+  },
+  {
+    "hanzi": "从来",
+    "meaning": "always"
+  },
+  {
+    "hanzi": "粗心",
+    "meaning": "careless"
+  },
+  {
+    "hanzi": "答案",
+    "meaning": "answer"
+  },
+  {
+    "hanzi": "打扮",
+    "meaning": "dress up"
+  },
+  {
+    "hanzi": "打扰",
+    "meaning": "disturb"
+  },
+  {
+    "hanzi": "打印",
+    "meaning": "print"
+  },
+  {
+    "hanzi": "打折",
+    "meaning": "discount"
+  },
+  {
+    "hanzi": "打针",
+    "meaning": "inject"
+  },
+  {
+    "hanzi": "大概",
+    "meaning": "probably"
+  },
+  {
+    "hanzi": "大使馆",
+    "meaning": "embassy"
+  },
+  {
+    "hanzi": "大约",
+    "meaning": "about"
+  },
+  {
+    "hanzi": "戴",
+    "meaning": "wear"
+  },
+  {
+    "hanzi": "代表",
+    "meaning": "representative"
+  },
+  {
+    "hanzi": "代替",
+    "meaning": "replace"
+  },
+  {
+    "hanzi": "大夫",
+    "meaning": "doctor"
+  },
+  {
+    "hanzi": "当",
+    "meaning": "when"
+  },
+  {
+    "hanzi": "当地",
+    "meaning": "local"
+  },
+  {
+    "hanzi": "当时",
+    "meaning": "at that time"
+  },
+  {
+    "hanzi": "刀",
+    "meaning": "knife"
+  },
+  {
+    "hanzi": "导游",
+    "meaning": "guide"
+  },
+  {
+    "hanzi": "到",
+    "meaning": "reach"
+  },
+  {
+    "hanzi": "到处",
+    "meaning": "everywhere"
+  },
+  {
+    "hanzi": "到底",
+    "meaning": "to the end"
+  },
+  {
+    "hanzi": "道歉",
+    "meaning": "apologize"
+  },
+  {
+    "hanzi": "得意",
+    "meaning": "proud"
+  },
+  {
+    "hanzi": "等 （动）",
+    "meaning": "wait (verb)"
+  },
+  {
+    "hanzi": "等 （助）",
+    "meaning": "Etc."
+  },
+  {
+    "hanzi": "底",
+    "meaning": "bottom"
+  },
+  {
+    "hanzi": "地球",
+    "meaning": "earth"
+  },
+  {
+    "hanzi": "地址",
+    "meaning": "address"
+  },
+  {
+    "hanzi": "掉",
+    "meaning": "fall"
+  },
+  {
+    "hanzi": "调查",
+    "meaning": "investigation"
+  },
+  {
+    "hanzi": "丢",
+    "meaning": "lose"
+  },
+  {
+    "hanzi": "动作",
+    "meaning": "action"
+  },
+  {
+    "hanzi": "堵车",
+    "meaning": "traffic jam"
+  },
+  {
+    "hanzi": "肚子",
+    "meaning": "belly"
+  },
+  {
+    "hanzi": "断",
+    "meaning": "break"
+  },
+  {
+    "hanzi": "对话",
+    "meaning": "dialogue"
+  },
+  {
+    "hanzi": "对面",
+    "meaning": "Opposite side"
+  },
+  {
+    "hanzi": "顿",
+    "meaning": "Meal"
+  },
+  {
+    "hanzi": "朵",
+    "meaning": "classifier of flower"
+  },
+  {
+    "hanzi": "而",
+    "meaning": "and"
+  },
+  {
+    "hanzi": "儿童",
+    "meaning": "children"
+  },
+  {
+    "hanzi": "发",
+    "meaning": "send out"
+  },
+  {
+    "hanzi": "发生",
+    "meaning": "happen"
+  },
+  {
+    "hanzi": "发展",
+    "meaning": "development"
+  },
+  {
+    "hanzi": "法律",
+    "meaning": "law"
+  },
+  {
+    "hanzi": "翻译",
+    "meaning": "translate"
+  },
+  {
+    "hanzi": "烦恼",
+    "meaning": "annoyance"
+  },
+  {
+    "hanzi": "反对",
+    "meaning": "opposition"
+  },
+  {
+    "hanzi": "反映",
+    "meaning": "reflect"
+  },
+  {
+    "hanzi": "范围",
+    "meaning": "Range"
+  },
+  {
+    "hanzi": "方法",
+    "meaning": "method"
+  },
+  {
+    "hanzi": "方面",
+    "meaning": "aspect"
+  },
+  {
+    "hanzi": "方向",
+    "meaning": "direction"
+  },
+  {
+    "hanzi": "访问",
+    "meaning": "visit"
+  },
+  {
+    "hanzi": "放弃",
+    "meaning": "give up"
+  },
+  {
+    "hanzi": "放暑假",
+    "meaning": "summer vacation"
+  },
+  {
+    "hanzi": "分之",
+    "meaning": "percent"
+  },
+  {
+    "hanzi": "份",
+    "meaning": "share (measure word)"
+  },
+  {
+    "hanzi": "丰富",
+    "meaning": "rich"
+  },
+  {
+    "hanzi": "风景",
+    "meaning": "scenery"
+  },
+  {
+    "hanzi": "否则",
+    "meaning": "otherwise"
+  },
+  {
+    "hanzi": "符合",
+    "meaning": "accord with"
+  },
+  {
+    "hanzi": "富",
+    "meaning": "rich"
+  },
+  {
+    "hanzi": "父亲",
+    "meaning": "father"
+  },
+  {
+    "hanzi": "复印",
+    "meaning": "to copy"
+  },
+  {
+    "hanzi": "复杂",
+    "meaning": "complex"
+  },
+  {
+    "hanzi": "负责",
+    "meaning": "be responsible for"
+  },
+  {
+    "hanzi": "改变",
+    "meaning": "change"
+  },
+  {
+    "hanzi": "干杯",
+    "meaning": "Cheers!"
+  },
+  {
+    "hanzi": "干燥",
+    "meaning": "dry"
+  },
+  {
+    "hanzi": "感动",
+    "meaning": "be moved"
+  },
+  {
+    "hanzi": "感觉",
+    "meaning": "feel"
+  },
+  {
+    "hanzi": "感情",
+    "meaning": "feeling"
+  },
+  {
+    "hanzi": "感谢",
+    "meaning": "Many thanks"
+  },
+  {
+    "hanzi": "干",
+    "meaning": "dry"
+  },
+  {
+    "hanzi": "刚刚",
+    "meaning": "just"
+  },
+  {
+    "hanzi": "高级",
+    "meaning": "senior"
+  },
+  {
+    "hanzi": "各",
+    "meaning": "various"
+  },
+  {
+    "hanzi": "个子",
+    "meaning": "height"
+  },
+  {
+    "hanzi": "公里",
+    "meaning": "kilometre"
+  },
+  {
+    "hanzi": "工具",
+    "meaning": "tool"
+  },
+  {
+    "hanzi": "工资",
+    "meaning": "wages"
+  },
+  {
+    "hanzi": "共同",
+    "meaning": "common"
+  },
+  {
+    "hanzi": "够",
+    "meaning": "enough"
+  },
+  {
+    "hanzi": "购物",
+    "meaning": "Shopping"
+  },
+  {
+    "hanzi": "孤单",
+    "meaning": "alone"
+  },
+  {
+    "hanzi": "估计",
+    "meaning": "estimate"
+  },
+  {
+    "hanzi": "鼓励",
+    "meaning": "encourage"
+  },
+  {
+    "hanzi": "鼓掌",
+    "meaning": "applause"
+  },
+  {
+    "hanzi": "顾客",
+    "meaning": "customer"
+  },
+  {
+    "hanzi": "故意",
+    "meaning": "deliberately"
+  },
+  {
+    "hanzi": "挂",
+    "meaning": "hang"
+  },
+  {
+    "hanzi": "关键",
+    "meaning": "key"
+  },
+  {
+    "hanzi": "观众",
+    "meaning": "Audience"
+  },
+  {
+    "hanzi": "管理",
+    "meaning": "Administration"
+  },
+  {
+    "hanzi": "光",
+    "meaning": "light"
+  },
+  {
+    "hanzi": "广播",
+    "meaning": "Radio broadcast"
+  },
+  {
+    "hanzi": "广告",
+    "meaning": "Advertisement"
+  },
+  {
+    "hanzi": "逛",
+    "meaning": "Stroll"
+  },
+  {
+    "hanzi": "规定",
+    "meaning": "Regulations"
+  },
+  {
+    "hanzi": "国际",
+    "meaning": "international"
+  },
+  {
+    "hanzi": "果然",
+    "meaning": "Sure enough"
+  },
+  {
+    "hanzi": "过 （动）",
+    "meaning": "pass"
+  },
+  {
+    "hanzi": "过 （助）",
+    "meaning": "Over"
+  },
+  {
+    "hanzi": "过程",
+    "meaning": "process"
+  },
+  {
+    "hanzi": "海洋",
+    "meaning": "ocean"
+  },
+  {
+    "hanzi": "害羞",
+    "meaning": "Shy"
+  },
+  {
+    "hanzi": "寒假",
+    "meaning": "The winter vacation"
+  },
+  {
+    "hanzi": "汗",
+    "meaning": "sweat"
+  },
+  {
+    "hanzi": "航班",
+    "meaning": "flight"
+  },
+  {
+    "hanzi": "好处",
+    "meaning": "benefit"
+  },
+  {
+    "hanzi": "好像",
+    "meaning": "Be like, seem"
+  },
+  {
+    "hanzi": "号码",
+    "meaning": "number"
+  },
+  {
+    "hanzi": "合格",
+    "meaning": "qualified"
+  },
+  {
+    "hanzi": "合适",
+    "meaning": "appropriate"
+  },
+  {
+    "hanzi": "盒子",
+    "meaning": "Box"
+  },
+  {
+    "hanzi": "猴子",
+    "meaning": "Monkey"
+  },
+  {
+    "hanzi": "厚",
+    "meaning": "thick"
+  },
+  {
+    "hanzi": "后悔",
+    "meaning": "regret"
+  },
+  {
+    "hanzi": "后来",
+    "meaning": "later"
+  },
+  {
+    "hanzi": "忽然",
+    "meaning": "suddenly"
+  },
+  {
+    "hanzi": "护士",
+    "meaning": "Nurse"
+  },
+  {
+    "hanzi": "互相",
+    "meaning": "each other"
+  },
+  {
+    "hanzi": "怀疑",
+    "meaning": "doubt"
+  },
+  {
+    "hanzi": "回忆",
+    "meaning": "Memory"
+  },
+  {
+    "hanzi": "活动",
+    "meaning": "activity"
+  },
+  {
+    "hanzi": "活泼",
+    "meaning": "lively"
+  },
+  {
+    "hanzi": "火",
+    "meaning": "fire"
+  },
+  {
+    "hanzi": "获得",
+    "meaning": "Get"
+  },
+  {
+    "hanzi": "基础",
+    "meaning": "Basics"
+  },
+  {
+    "hanzi": "激动",
+    "meaning": "Excited"
+  },
+  {
+    "hanzi": "积极",
+    "meaning": "positive"
+  },
+  {
+    "hanzi": "积累",
+    "meaning": "accumulation"
+  },
+  {
+    "hanzi": "极其",
+    "meaning": "extremely"
+  },
+  {
+    "hanzi": "集合",
+    "meaning": "aggregate"
+  },
+  {
+    "hanzi": "及时",
+    "meaning": "timely"
+  },
+  {
+    "hanzi": "即使",
+    "meaning": "even if"
+  },
+  {
+    "hanzi": "寄",
+    "meaning": "send"
+  },
+  {
+    "hanzi": "记者",
+    "meaning": "Reporter"
+  },
+  {
+    "hanzi": "计划",
+    "meaning": "plan"
+  },
+  {
+    "hanzi": "既然",
+    "meaning": "although"
+  },
+  {
+    "hanzi": "技术",
+    "meaning": "technology"
+  },
+  {
+    "hanzi": "继续",
+    "meaning": "Continue"
+  },
+  {
+    "hanzi": "家具",
+    "meaning": "furniture"
+  },
+  {
+    "hanzi": "加班",
+    "meaning": "overtime work"
+  },
+  {
+    "hanzi": "加油站",
+    "meaning": "Gas station"
+  },
+  {
+    "hanzi": "假",
+    "meaning": "false"
+  },
+  {
+    "hanzi": "价格",
+    "meaning": "Price"
+  },
+  {
+    "hanzi": "坚持",
+    "meaning": "Insist"
+  },
+  {
+    "hanzi": "减肥",
+    "meaning": "Reduce weight"
+  },
+  {
+    "hanzi": "减少",
+    "meaning": "reduce"
+  },
+  {
+    "hanzi": "将来",
+    "meaning": "future"
+  },
+  {
+    "hanzi": "奖金",
+    "meaning": "bonus"
+  },
+  {
+    "hanzi": "降低",
+    "meaning": "reduce"
+  },
+  {
+    "hanzi": "交",
+    "meaning": "hand over"
+  },
+  {
+    "hanzi": "交流",
+    "meaning": "Communication"
+  },
+  {
+    "hanzi": "交通",
+    "meaning": "traffic"
+  },
+  {
+    "hanzi": "骄傲",
+    "meaning": "Proud"
+  },
+  {
+    "hanzi": "饺子",
+    "meaning": "Dumplings"
+  },
+  {
+    "hanzi": "教授",
+    "meaning": "professor"
+  },
+  {
+    "hanzi": "教育",
+    "meaning": "education"
+  },
+  {
+    "hanzi": "接受",
+    "meaning": "accept"
+  },
+  {
+    "hanzi": "结果",
+    "meaning": "Result"
+  },
+  {
+    "hanzi": "节约",
+    "meaning": "save"
+  },
+  {
+    "hanzi": "解释",
+    "meaning": "explain"
+  },
+  {
+    "hanzi": "尽管",
+    "meaning": "although"
+  },
+  {
+    "hanzi": "紧张",
+    "meaning": "Nervous"
+  },
+  {
+    "hanzi": "进行",
+    "meaning": "in process of"
+  },
+  {
+    "hanzi": "禁止",
+    "meaning": "prohibit"
+  },
+  {
+    "hanzi": "精彩",
+    "meaning": "Marvellous"
+  },
+  {
+    "hanzi": "精神",
+    "meaning": "spirit"
+  },
+  {
+    "hanzi": "经济",
+    "meaning": "Economics"
+  },
+  {
+    "hanzi": "经历",
+    "meaning": "experience"
+  },
+  {
+    "hanzi": "经验",
+    "meaning": "experience"
+  },
+  {
+    "hanzi": "京剧",
+    "meaning": "Beijing opera"
+  },
+  {
+    "hanzi": "警察",
+    "meaning": "Policeman"
+  },
+  {
+    "hanzi": "竟然",
+    "meaning": "Unexpectedly"
+  },
+  {
+    "hanzi": "竞争",
+    "meaning": "compete"
+  },
+  {
+    "hanzi": "镜子",
+    "meaning": "Mirror"
+  },
+  {
+    "hanzi": "究竟",
+    "meaning": "exactly"
+  },
+  {
+    "hanzi": "举办",
+    "meaning": "hold"
+  },
+  {
+    "hanzi": "拒绝",
+    "meaning": "refuse"
+  },
+  {
+    "hanzi": "距离",
+    "meaning": "distance"
+  },
+  {
+    "hanzi": "开玩笑",
+    "meaning": "Make fun of"
+  },
+  {
+    "hanzi": "看法",
+    "meaning": "view"
+  },
+  {
+    "hanzi": "考虑",
+    "meaning": "Consider"
+  },
+  {
+    "hanzi": "棵",
+    "meaning": "Tree (measure word)"
+  },
+  {
+    "hanzi": "科学",
+    "meaning": "science"
+  },
+  {
+    "hanzi": "咳嗽",
+    "meaning": "cough"
+  },
+  {
+    "hanzi": "可怜",
+    "meaning": "Poor"
+  },
+  {
+    "hanzi": "可是",
+    "meaning": "however"
+  },
+  {
+    "hanzi": "可惜",
+    "meaning": "unfortunately"
+  },
+  {
+    "hanzi": "肯定",
+    "meaning": "sure"
+  },
+  {
+    "hanzi": "空气",
+    "meaning": "air"
+  },
+  {
+    "hanzi": "恐怕",
+    "meaning": "I’m afraid"
+  },
+  {
+    "hanzi": "苦",
+    "meaning": "bitter"
+  },
+  {
+    "hanzi": "宽",
+    "meaning": "wide"
+  },
+  {
+    "hanzi": "困",
+    "meaning": "sleepy"
+  },
+  {
+    "hanzi": "困难",
+    "meaning": "difficulty"
+  },
+  {
+    "hanzi": "扩大",
+    "meaning": "Expand"
+  },
+  {
+    "hanzi": "拉",
+    "meaning": "pull"
+  },
+  {
+    "hanzi": "垃圾桶",
+    "meaning": "Trash"
+  },
+  {
+    "hanzi": "辣",
+    "meaning": "spicy"
+  },
+  {
+    "hanzi": "来不及",
+    "meaning": "There’s not enough time"
+  },
+  {
+    "hanzi": "来得及",
+    "meaning": "In time"
+  },
+  {
+    "hanzi": "懒",
+    "meaning": "lazy"
+  },
+  {
+    "hanzi": "浪费",
+    "meaning": "Waste"
+  },
+  {
+    "hanzi": "浪漫",
+    "meaning": "romantic"
+  },
+  {
+    "hanzi": "老虎",
+    "meaning": "Tiger"
+  },
+  {
+    "hanzi": "冷静",
+    "meaning": "calm down"
+  },
+  {
+    "hanzi": "理发",
+    "meaning": "Haircut"
+  },
+  {
+    "hanzi": "理解",
+    "meaning": "Understand"
+  },
+  {
+    "hanzi": "理想",
+    "meaning": "ideal"
+  },
+  {
+    "hanzi": "礼貌",
+    "meaning": "politeness"
+  },
+  {
+    "hanzi": "厉害",
+    "meaning": "Fierce"
+  },
+  {
+    "hanzi": "力气",
+    "meaning": "Strength"
+  },
+  {
+    "hanzi": "例如",
+    "meaning": "for example"
+  },
+  {
+    "hanzi": "俩",
+    "meaning": "Two"
+  },
+  {
+    "hanzi": "连",
+    "meaning": "even"
+  },
+  {
+    "hanzi": "联系",
+    "meaning": "contact"
+  },
+  {
+    "hanzi": "凉快",
+    "meaning": "Pleasantly cool"
+  },
+  {
+    "hanzi": "亮",
+    "meaning": "bright"
+  },
+  {
+    "hanzi": "聊天",
+    "meaning": "chat"
+  },
+  {
+    "hanzi": "另外",
+    "meaning": "in addition"
+  },
+  {
+    "hanzi": "留",
+    "meaning": "stay"
+  },
+  {
+    "hanzi": "留学",
+    "meaning": "Overseas Study"
+  },
+  {
+    "hanzi": "流泪",
+    "meaning": "Shed tears"
+  },
+  {
+    "hanzi": "流利",
+    "meaning": "fluent"
+  },
+  {
+    "hanzi": "流行",
+    "meaning": "Popular"
+  },
+  {
+    "hanzi": "乱",
+    "meaning": "chaos"
+  },
+  {
+    "hanzi": "律师",
+    "meaning": "Lawyer"
+  },
+  {
+    "hanzi": "麻烦",
+    "meaning": "trouble"
+  },
+  {
+    "hanzi": "马虎",
+    "meaning": "Careless"
+  },
+  {
+    "hanzi": "满",
+    "meaning": "full"
+  },
+  {
+    "hanzi": "毛巾",
+    "meaning": "Towel"
+  },
+  {
+    "hanzi": "美丽",
+    "meaning": "beautiful"
+  },
+  {
+    "hanzi": "梦",
+    "meaning": "dream"
+  },
+  {
+    "hanzi": "密码",
+    "meaning": "Password"
+  },
+  {
+    "hanzi": "免费",
+    "meaning": "Free of charge"
+  },
+  {
+    "hanzi": "民族",
+    "meaning": "Nation"
+  },
+  {
+    "hanzi": "母亲",
+    "meaning": "mother"
+  },
+  {
+    "hanzi": "目的",
+    "meaning": "objective"
+  },
+  {
+    "hanzi": "耐心",
+    "meaning": "patience"
+  },
+  {
+    "hanzi": "难道",
+    "meaning": "could it be said that …"
+  },
+  {
+    "hanzi": "难受",
+    "meaning": "Uncomfortable"
+  },
+  {
+    "hanzi": "内",
+    "meaning": "within"
+  },
+  {
+    "hanzi": "内容",
+    "meaning": "content"
+  },
+  {
+    "hanzi": "能力",
+    "meaning": "ability"
+  },
+  {
+    "hanzi": "年龄",
+    "meaning": "Age"
+  },
+  {
+    "hanzi": "农村",
+    "meaning": "countryside"
+  },
+  {
+    "hanzi": "弄",
+    "meaning": "get, make"
+  },
+  {
+    "hanzi": "暖和",
+    "meaning": "warm"
+  },
+  {
+    "hanzi": "偶尔",
+    "meaning": "occasionally"
+  },
+  {
+    "hanzi": "排列",
+    "meaning": "array"
+  },
+  {
+    "hanzi": "判断",
+    "meaning": "judge"
+  },
+  {
+    "hanzi": "陪",
+    "meaning": "accompany"
+  },
+  {
+    "hanzi": "批评",
+    "meaning": "criticism"
+  },
+  {
+    "hanzi": "皮肤",
+    "meaning": "skin"
+  },
+  {
+    "hanzi": "脾气",
+    "meaning": "Bad temper"
+  },
+  {
+    "hanzi": "篇",
+    "meaning": "piece"
+  },
+  {
+    "hanzi": "骗",
+    "meaning": "fool"
+  },
+  {
+    "hanzi": "乒乓球",
+    "meaning": "Table Tennis"
+  },
+  {
+    "hanzi": "平时",
+    "meaning": "peacetime"
+  },
+  {
+    "hanzi": "瓶子",
+    "meaning": "Bottle"
+  },
+  {
+    "hanzi": "破",
+    "meaning": "broken"
+  },
+  {
+    "hanzi": "普遍",
+    "meaning": "universal"
+  },
+  {
+    "hanzi": "其次",
+    "meaning": "Secondly"
+  },
+  {
+    "hanzi": "其中",
+    "meaning": "among"
+  },
+  {
+    "hanzi": "起飞",
+    "meaning": "take off"
+  },
+  {
+    "hanzi": "起来",
+    "meaning": "get up"
+  },
+  {
+    "hanzi": "气候",
+    "meaning": "climate"
+  },
+  {
+    "hanzi": "千万",
+    "meaning": "Must"
+  },
+  {
+    "hanzi": "签证",
+    "meaning": "visa"
+  },
+  {
+    "hanzi": "墙",
+    "meaning": "wall"
+  },
+  {
+    "hanzi": "敲",
+    "meaning": "knock"
+  },
+  {
+    "hanzi": "桥",
+    "meaning": "Bridge"
+  },
+  {
+    "hanzi": "巧克力",
+    "meaning": "Chocolates"
+  },
+  {
+    "hanzi": "亲戚",
+    "meaning": "Relative"
+  },
+  {
+    "hanzi": "轻",
+    "meaning": "light"
+  },
+  {
+    "hanzi": "轻松",
+    "meaning": "Relaxed"
+  },
+  {
+    "hanzi": "情况",
+    "meaning": "Situation"
+  },
+  {
+    "hanzi": "请假",
+    "meaning": "leave"
+  },
+  {
+    "hanzi": "请客",
+    "meaning": "Treat"
+  },
+  {
+    "hanzi": "穷",
+    "meaning": "poor"
+  },
+  {
+    "hanzi": "区别",
+    "meaning": "Difference"
+  },
+  {
+    "hanzi": "取",
+    "meaning": "take"
+  },
+  {
+    "hanzi": "全部",
+    "meaning": "whole"
+  },
+  {
+    "hanzi": "缺点",
+    "meaning": "shortcoming"
+  },
+  {
+    "hanzi": "缺少",
+    "meaning": "Lack"
+  },
+  {
+    "hanzi": "却",
+    "meaning": "but"
+  },
+  {
+    "hanzi": "确实",
+    "meaning": "Exactly"
+  },
+  {
+    "hanzi": "群",
+    "meaning": "group"
+  },
+  {
+    "hanzi": "然而",
+    "meaning": "however"
+  },
+  {
+    "hanzi": "热闹",
+    "meaning": "lively"
+  },
+  {
+    "hanzi": "人民币",
+    "meaning": "RMB"
+  },
+  {
+    "hanzi": "任何",
+    "meaning": "whatever, any"
+  },
+  {
+    "hanzi": "任务",
+    "meaning": "task"
+  },
+  {
+    "hanzi": "扔",
+    "meaning": "throw"
+  },
+  {
+    "hanzi": "仍然",
+    "meaning": "still"
+  },
+  {
+    "hanzi": "日记",
+    "meaning": "diary"
+  },
+  {
+    "hanzi": "入口",
+    "meaning": "Entrance"
+  },
+  {
+    "hanzi": "软",
+    "meaning": "soft"
+  },
+  {
+    "hanzi": "散步",
+    "meaning": "Take a walk"
+  },
+  {
+    "hanzi": "森林",
+    "meaning": "Forest"
+  },
+  {
+    "hanzi": "沙发",
+    "meaning": "Sofa"
+  },
+  {
+    "hanzi": "商量",
+    "meaning": "discuss"
+  },
+  {
+    "hanzi": "伤心",
+    "meaning": "Sad"
+  },
+  {
+    "hanzi": "稍微",
+    "meaning": "slightly"
+  },
+  {
+    "hanzi": "社会",
+    "meaning": "society"
+  },
+  {
+    "hanzi": "深",
+    "meaning": "deep"
+  },
+  {
+    "hanzi": "申请",
+    "meaning": "Apply"
+  },
+  {
+    "hanzi": "甚至",
+    "meaning": "even (..to the extent that)"
+  },
+  {
+    "hanzi": "生活",
+    "meaning": "Life"
+  },
+  {
+    "hanzi": "生命",
+    "meaning": "life"
+  },
+  {
+    "hanzi": "省",
+    "meaning": "province"
+  },
+  {
+    "hanzi": "剩",
+    "meaning": "Left"
+  },
+  {
+    "hanzi": "失败",
+    "meaning": "fail"
+  },
+  {
+    "hanzi": "失望",
+    "meaning": "disappointment"
+  },
+  {
+    "hanzi": "师傅",
+    "meaning": "master worker"
+  },
+  {
+    "hanzi": "湿润",
+    "meaning": "moist"
+  },
+  {
+    "hanzi": "狮子",
+    "meaning": "Lion"
+  },
+  {
+    "hanzi": "十分",
+    "meaning": "very"
+  },
+  {
+    "hanzi": "实际",
+    "meaning": "actual"
+  },
+  {
+    "hanzi": "实在",
+    "meaning": "really"
+  },
+  {
+    "hanzi": "食品",
+    "meaning": "food"
+  },
+  {
+    "hanzi": "使用",
+    "meaning": "use"
+  },
+  {
+    "hanzi": "试",
+    "meaning": "try"
+  },
+  {
+    "hanzi": "市场",
+    "meaning": "market"
+  },
+  {
+    "hanzi": "适合",
+    "meaning": "Fit"
+  },
+  {
+    "hanzi": "适应",
+    "meaning": "Adapt"
+  },
+  {
+    "hanzi": "世纪",
+    "meaning": "century"
+  },
+  {
+    "hanzi": "收",
+    "meaning": "collect"
+  },
+  {
+    "hanzi": "收入",
+    "meaning": "income"
+  },
+  {
+    "hanzi": "收拾",
+    "meaning": "tidy (up something)"
+  },
+  {
+    "hanzi": "首都",
+    "meaning": "capital"
+  },
+  {
+    "hanzi": "首先",
+    "meaning": "first"
+  },
+  {
+    "hanzi": "受不了",
+    "meaning": "cannot bear"
+  },
+  {
+    "hanzi": "受到",
+    "meaning": "suffer"
+  },
+  {
+    "hanzi": "售货员",
+    "meaning": "salesperson"
+  },
+  {
+    "hanzi": "输",
+    "meaning": "book"
+  },
+  {
+    "hanzi": "熟悉",
+    "meaning": "be familiar with"
+  },
+  {
+    "hanzi": "数量",
+    "meaning": "quantity"
+  },
+  {
+    "hanzi": "数字",
+    "meaning": "number"
+  },
+  {
+    "hanzi": "帅",
+    "meaning": "handsome"
+  },
+  {
+    "hanzi": "顺便",
+    "meaning": "incidentally"
+  },
+  {
+    "hanzi": "顺利",
+    "meaning": "smoothly"
+  },
+  {
+    "hanzi": "顺序",
+    "meaning": "order"
+  },
+  {
+    "hanzi": "说明",
+    "meaning": "explain"
+  },
+  {
+    "hanzi": "硕士",
+    "meaning": "master"
+  },
+  {
+    "hanzi": "死",
+    "meaning": "die"
+  },
+  {
+    "hanzi": "速度",
+    "meaning": "speed"
+  },
+  {
+    "hanzi": "塑料袋",
+    "meaning": "plastic bag"
+  },
+  {
+    "hanzi": "酸",
+    "meaning": "sour"
+  },
+  {
+    "hanzi": "算",
+    "meaning": "count"
+  },
+  {
+    "hanzi": "随便",
+    "meaning": "casual"
+  },
+  {
+    "hanzi": "随着",
+    "meaning": "along with"
+  },
+  {
+    "hanzi": "孙子",
+    "meaning": "grandson"
+  },
+  {
+    "hanzi": "所有",
+    "meaning": "therefore"
+  },
+  {
+    "hanzi": "台",
+    "meaning": "platform"
+  },
+  {
+    "hanzi": "抬",
+    "meaning": "lift"
+  },
+  {
+    "hanzi": "态度",
+    "meaning": "attitude"
+  },
+  {
+    "hanzi": "谈",
+    "meaning": "talk"
+  },
+  {
+    "hanzi": "弹钢琴",
+    "meaning": "play the piano"
+  },
+  {
+    "hanzi": "汤",
+    "meaning": "soup"
+  },
+  {
+    "hanzi": "躺",
+    "meaning": "lie"
+  },
+  {
+    "hanzi": "趟",
+    "meaning": "trip"
+  },
+  {
+    "hanzi": "讨论",
+    "meaning": "discuss"
+  },
+  {
+    "hanzi": "讨厌",
+    "meaning": "hate"
+  },
+  {
+    "hanzi": "特点",
+    "meaning": "characteristic"
+  },
+  {
+    "hanzi": "提供",
+    "meaning": "provide"
+  },
+  {
+    "hanzi": "提前",
+    "meaning": "in advance"
+  },
+  {
+    "hanzi": "提醒",
+    "meaning": "remind"
+  },
+  {
+    "hanzi": "填空",
+    "meaning": "fill in the blanks"
+  },
+  {
+    "hanzi": "条件",
+    "meaning": "condition"
+  },
+  {
+    "hanzi": "停止",
+    "meaning": "stop it"
+  },
+  {
+    "hanzi": "挺",
+    "meaning": "quite"
+  },
+  {
+    "hanzi": "通过",
+    "meaning": "through"
+  },
+  {
+    "hanzi": "通知",
+    "meaning": "notice"
+  },
+  {
+    "hanzi": "同情",
+    "meaning": "sympathy"
+  },
+  {
+    "hanzi": "推",
+    "meaning": "push"
+  },
+  {
+    "hanzi": "推迟",
+    "meaning": "delay"
+  },
+  {
+    "hanzi": "脱",
+    "meaning": "take off"
+  },
+  {
+    "hanzi": "袜子",
+    "meaning": "socks"
+  },
+  {
+    "hanzi": "完全",
+    "meaning": "completely"
+  },
+  {
+    "hanzi": "往",
+    "meaning": "to, towards"
+  },
+  {
+    "hanzi": "往往",
+    "meaning": "usually"
+  },
+  {
+    "hanzi": "网球",
+    "meaning": "tennis"
+  },
+  {
+    "hanzi": "网站",
+    "meaning": "website"
+  },
+  {
+    "hanzi": "危险",
+    "meaning": "danger"
+  },
+  {
+    "hanzi": "味道",
+    "meaning": "taste"
+  },
+  {
+    "hanzi": "温度",
+    "meaning": "temperature"
+  },
+  {
+    "hanzi": "文章",
+    "meaning": "article"
+  },
+  {
+    "hanzi": "握手",
+    "meaning": "handshake"
+  },
+  {
+    "hanzi": "污染",
+    "meaning": "contaminated"
+  },
+  {
+    "hanzi": "无",
+    "meaning": "nothing"
+  },
+  {
+    "hanzi": "无聊",
+    "meaning": "boring"
+  },
+  {
+    "hanzi": "无论",
+    "meaning": "no matter what"
+  },
+  {
+    "hanzi": "误会",
+    "meaning": "misunderstanding"
+  },
+  {
+    "hanzi": "西红柿",
+    "meaning": "tomato"
+  },
+  {
+    "hanzi": "吸引",
+    "meaning": "attract"
+  },
+  {
+    "hanzi": "洗衣机",
+    "meaning": "washing machine"
+  },
+  {
+    "hanzi": "咸",
+    "meaning": "salty"
+  },
+  {
+    "hanzi": "现代",
+    "meaning": "modern"
+  },
+  {
+    "hanzi": "羡慕",
+    "meaning": "envy"
+  },
+  {
+    "hanzi": "限制",
+    "meaning": "limit"
+  },
+  {
+    "hanzi": "香",
+    "meaning": "fragrant"
+  },
+  {
+    "hanzi": "相反",
+    "meaning": "contrary"
+  },
+  {
+    "hanzi": "详细",
+    "meaning": "detailed"
+  },
+  {
+    "hanzi": "响",
+    "meaning": "ring"
+  },
+  {
+    "hanzi": "消息",
+    "meaning": "message"
+  },
+  {
+    "hanzi": "小说",
+    "meaning": "novel"
+  },
+  {
+    "hanzi": "笑话",
+    "meaning": "joke"
+  },
+  {
+    "hanzi": "效果",
+    "meaning": "effect"
+  },
+  {
+    "hanzi": "辛苦",
+    "meaning": "hard"
+  },
+  {
+    "hanzi": "心情",
+    "meaning": "mood"
+  },
+  {
+    "hanzi": "信任",
+    "meaning": "trust"
+  },
+  {
+    "hanzi": "信心",
+    "meaning": "confidence"
+  },
+  {
+    "hanzi": "信用卡",
+    "meaning": "credit card"
+  },
+  {
+    "hanzi": "兴奋",
+    "meaning": "Excitement"
+  },
+  {
+    "hanzi": "行",
+    "meaning": "OK"
+  },
+  {
+    "hanzi": "醒",
+    "meaning": "wake up"
+  },
+  {
+    "hanzi": "性别",
+    "meaning": "gender"
+  },
+  {
+    "hanzi": "性格",
+    "meaning": "character"
+  },
+  {
+    "hanzi": "幸福",
+    "meaning": "happiness"
+  },
+  {
+    "hanzi": "修",
+    "meaning": "repair"
+  },
+  {
+    "hanzi": "许多",
+    "meaning": "many"
+  },
+  {
+    "hanzi": "血",
+    "meaning": "blood"
+  },
+  {
+    "hanzi": "压力",
+    "meaning": "pressure"
+  },
+  {
+    "hanzi": "牙膏",
+    "meaning": "toothpaste"
+  },
+  {
+    "hanzi": "亚洲",
+    "meaning": "Asia"
+  },
+  {
+    "hanzi": "呀",
+    "meaning": "ah"
+  },
+  {
+    "hanzi": "盐",
+    "meaning": "salt"
+  },
+  {
+    "hanzi": "严格",
+    "meaning": "strict"
+  },
+  {
+    "hanzi": "严重",
+    "meaning": "serious"
+  },
+  {
+    "hanzi": "研究生",
+    "meaning": "graduate student"
+  },
+  {
+    "hanzi": "演出",
+    "meaning": "show"
+  },
+  {
+    "hanzi": "演员",
+    "meaning": "performer, actor"
+  },
+  {
+    "hanzi": "阳光",
+    "meaning": "sunshine"
+  },
+  {
+    "hanzi": "养成",
+    "meaning": "cultivate"
+  },
+  {
+    "hanzi": "样子",
+    "meaning": "one’s look"
+  },
+  {
+    "hanzi": "邀请",
+    "meaning": "invitation"
+  },
+  {
+    "hanzi": "钥匙",
+    "meaning": "key"
+  },
+  {
+    "hanzi": "也许",
+    "meaning": "perhaps"
+  },
+  {
+    "hanzi": "页",
+    "meaning": "page"
+  },
+  {
+    "hanzi": "叶子",
+    "meaning": "leaf"
+  },
+  {
+    "hanzi": "一切",
+    "meaning": "everything"
+  },
+  {
+    "hanzi": "以",
+    "meaning": "with"
+  },
+  {
+    "hanzi": "亿",
+    "meaning": "billion"
+  },
+  {
+    "hanzi": "意见",
+    "meaning": "opinion"
+  },
+  {
+    "hanzi": "艺术",
+    "meaning": "art"
+  },
+  {
+    "hanzi": "因此",
+    "meaning": "therefore"
+  },
+  {
+    "hanzi": "饮料",
+    "meaning": "drinks"
+  },
+  {
+    "hanzi": "引起",
+    "meaning": "cause"
+  },
+  {
+    "hanzi": "印象",
+    "meaning": "impression"
+  },
+  {
+    "hanzi": "赢",
+    "meaning": "win"
+  },
+  {
+    "hanzi": "硬",
+    "meaning": "hard"
+  },
+  {
+    "hanzi": "勇敢",
+    "meaning": "brave"
+  },
+  {
+    "hanzi": "永远",
+    "meaning": "forever"
+  },
+  {
+    "hanzi": "优点",
+    "meaning": "advantage"
+  },
+  {
+    "hanzi": "优秀",
+    "meaning": "excellent"
+  },
+  {
+    "hanzi": "幽默",
+    "meaning": "humor"
+  },
+  {
+    "hanzi": "由",
+    "meaning": "from"
+  },
+  {
+    "hanzi": "由于",
+    "meaning": "because"
+  },
+  {
+    "hanzi": "尤其",
+    "meaning": "especially"
+  },
+  {
+    "hanzi": "有趣",
+    "meaning": "interesting"
+  },
+  {
+    "hanzi": "友好",
+    "meaning": "friendly"
+  },
+  {
+    "hanzi": "友谊",
+    "meaning": "friendship"
+  },
+  {
+    "hanzi": "愉快",
+    "meaning": "cheerful"
+  },
+  {
+    "hanzi": "于是",
+    "meaning": "therefore"
+  },
+  {
+    "hanzi": "与",
+    "meaning": "and"
+  },
+  {
+    "hanzi": "语法",
+    "meaning": "grammar"
+  },
+  {
+    "hanzi": "语言",
+    "meaning": "language"
+  },
+  {
+    "hanzi": "羽毛球",
+    "meaning": "badminton"
+  },
+  {
+    "hanzi": "预习",
+    "meaning": "preview"
+  },
+  {
+    "hanzi": "圆",
+    "meaning": "circle"
+  },
+  {
+    "hanzi": "原来",
+    "meaning": "Original"
+  },
+  {
+    "hanzi": "原谅",
+    "meaning": "Forgive"
+  },
+  {
+    "hanzi": "原因",
+    "meaning": "Reason"
+  },
+  {
+    "hanzi": "约会",
+    "meaning": "Date"
+  },
+  {
+    "hanzi": "阅读",
+    "meaning": "Read"
+  },
+  {
+    "hanzi": "允许",
+    "meaning": "allow"
+  },
+  {
+    "hanzi": "杂志",
+    "meaning": "Magazine"
+  },
+  {
+    "hanzi": "咱们",
+    "meaning": "We"
+  },
+  {
+    "hanzi": "暂时",
+    "meaning": "temporary"
+  },
+  {
+    "hanzi": "脏",
+    "meaning": "dirty"
+  },
+  {
+    "hanzi": "责任",
+    "meaning": "responsibility"
+  },
+  {
+    "hanzi": "增加",
+    "meaning": "increase"
+  },
+  {
+    "hanzi": "增长",
+    "meaning": "increase"
+  },
+  {
+    "hanzi": "窄",
+    "meaning": "narrow"
+  },
+  {
+    "hanzi": "招聘",
+    "meaning": "recruit"
+  },
+  {
+    "hanzi": "着急",
+    "meaning": "Worry"
+  },
+  {
+    "hanzi": "真正",
+    "meaning": "real"
+  },
+  {
+    "hanzi": "整理",
+    "meaning": "Arrangement"
+  },
+  {
+    "hanzi": "整齐",
+    "meaning": "neat"
+  },
+  {
+    "hanzi": "正常",
+    "meaning": "normal"
+  },
+  {
+    "hanzi": "正好",
+    "meaning": "Just right"
+  },
+  {
+    "hanzi": "正确",
+    "meaning": "Correct"
+  },
+  {
+    "hanzi": "正式",
+    "meaning": "formal"
+  },
+  {
+    "hanzi": "证明",
+    "meaning": "Prove"
+  },
+  {
+    "hanzi": "之",
+    "meaning": "of"
+  },
+  {
+    "hanzi": "支持",
+    "meaning": "Support"
+  },
+  {
+    "hanzi": "知识",
+    "meaning": "knowledge"
+  },
+  {
+    "hanzi": "值得",
+    "meaning": "Worth"
+  },
+  {
+    "hanzi": "直接",
+    "meaning": "direct"
+  },
+  {
+    "hanzi": "植物",
+    "meaning": "Botany, plant"
+  },
+  {
+    "hanzi": "职业",
+    "meaning": "Occupation"
+  },
+  {
+    "hanzi": "指",
+    "meaning": "only"
+  },
+  {
+    "hanzi": "只好",
+    "meaning": "have to"
+  },
+  {
+    "hanzi": "只要",
+    "meaning": "as long as"
+  },
+  {
+    "hanzi": "质量",
+    "meaning": "quality"
+  },
+  {
+    "hanzi": "至少",
+    "meaning": "at least"
+  },
+  {
+    "hanzi": "制造",
+    "meaning": "Manufacture"
+  },
+  {
+    "hanzi": "中文",
+    "meaning": "Chinese"
+  },
+  {
+    "hanzi": "重点",
+    "meaning": "A key"
+  },
+  {
+    "hanzi": "重视",
+    "meaning": "importance, attach importance to"
+  },
+  {
+    "hanzi": "周围",
+    "meaning": "around"
+  },
+  {
+    "hanzi": "猪",
+    "meaning": "pig"
+  },
+  {
+    "hanzi": "逐渐",
+    "meaning": "gradually"
+  },
+  {
+    "hanzi": "主动",
+    "meaning": "active"
+  },
+  {
+    "hanzi": "主意",
+    "meaning": "idea"
+  },
+  {
+    "hanzi": "祝贺",
+    "meaning": "Congratulate"
+  },
+  {
+    "hanzi": "著名",
+    "meaning": "famous"
+  },
+  {
+    "hanzi": "专门",
+    "meaning": "specialized"
+  },
+  {
+    "hanzi": "专业",
+    "meaning": "major"
+  },
+  {
+    "hanzi": "赚",
+    "meaning": "earn"
+  },
+  {
+    "hanzi": "撞",
+    "meaning": "Hit"
+  },
+  {
+    "hanzi": "准确",
+    "meaning": "accuracy"
+  },
+  {
+    "hanzi": "准时",
+    "meaning": "on time"
+  },
+  {
+    "hanzi": "仔细",
+    "meaning": "careful"
+  },
+  {
+    "hanzi": "自然",
+    "meaning": "natural"
+  },
+  {
+    "hanzi": "总结",
+    "meaning": "summary"
+  },
+  {
+    "hanzi": "租",
+    "meaning": "rent"
+  },
+  {
+    "hanzi": "组成",
+    "meaning": "Form"
+  },
+  {
+    "hanzi": "组织",
+    "meaning": "organization"
+  },
+  {
+    "hanzi": "嘴",
+    "meaning": "mouth"
+  },
+  {
+    "hanzi": "最好",
+    "meaning": "Best"
+  },
+  {
+    "hanzi": "最后",
+    "meaning": "Last"
+  },
+  {
+    "hanzi": "尊重",
+    "meaning": "respect"
+  },
+  {
+    "hanzi": "做生意",
+    "meaning": "Do business"
+  },
+  {
+    "hanzi": "座",
+    "meaning": "Seat"
+  },
+  {
+    "hanzi": "座位",
+    "meaning": "seat"
+  },
+  {
+    "hanzi": "作者",
+    "meaning": "author"
+  }
+]

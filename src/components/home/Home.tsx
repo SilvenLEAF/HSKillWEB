@@ -1,5 +1,5 @@
 import M from 'materialize-css'
-import '../../styles/Home.scss';
+import '../../styles/HSkill.scss';
 
 
 import React, { useContext, useEffect } from 'react'
