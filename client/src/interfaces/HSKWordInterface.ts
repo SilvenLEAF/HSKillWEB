@@ -7,4 +7,4 @@ export interface HSKWordInterface {
 }
 
 export type HSKStageName = "hsk1" | "hsk2" | "hsk3" | "hsk4" | "hsk5"
-export type HSKStageIndex = 0 | 1 | 2 | 3 | 4
+export type HSKStageIndex = number

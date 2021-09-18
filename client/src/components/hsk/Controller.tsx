@@ -5,6 +5,7 @@ import useSound from 'use-sound';
 import eyeAudio from '../../sounds/sound-5.wav';
 import sliceAudio from '../../sounds/sound-4.wav';
 import reverseAudio from '../../sounds/sound-6.wav';
+import switchPageAudio from '../../sounds/sound-1.wav';
 
 
 import pinyin from 'pinyin';
@@ -38,7 +39,7 @@ interface propsInterface {
 
   wordIndex: any,
   setWordIndex: any,
-  
+
   isMute: any,
   setIsMute: any,
 
@@ -76,6 +77,7 @@ function Controller({
   const [playSliceSound] = useSound(sliceAudio);
   const [playShuffleSound] = useSound(reverseAudio);
   const [playReverseSound] = useSound(reverseAudio);
+  const [playSwitchPageSound] = useSound(switchPageAudio);
 
   const [localLower, setLocalLower] = useState(rangeLower);
   const [localUpper, setLocalUpper] = useState(rangeUpper);
@@ -114,7 +116,8 @@ function Controller({
   }
 
   const switchMute = () => {
-    !isMute && playShuffleSound();
+    isMute && playShuffleSound();
+    !isMute && window.navigator.vibrate(300);
     setIsMute(!isMute);
   }
 
@@ -128,6 +131,9 @@ function Controller({
     setWordList(getWordListByIndex(updatedIndex))
   }
 
+  const switchPage = () => {
+    !isMute && playSwitchPageSound()
+  }
 
   return (
     <div className="container center" >
@@ -155,11 +161,16 @@ function Controller({
             />
           </div>
 
-          <div className="wordListSliderVal">{ `HSK${wordListIndex + 1}`.toUpperCase() }: { localLower !== wordList.length ? localLower + 1 : localLower }/{localUpper}</div>
+          <div className="wordListSliderVal">{`HSK${wordListIndex + 1}`.toUpperCase()}: {localLower !== wordList.length ? localLower + 1 : localLower}/{localUpper}</div>
           <div className="hskCardBtnHolder">
-            <button className="btn-floating myComplementThemeColorBG"><i className={`fa fa-microphone${ isMute ? '-slash' : ''}`} onClick={switchMute}></i></button>
-            <button className={`btn-floating myThemeColorBG ${ isPawDisabled ? 'disabled' : '' }`}><i className="fas fa-paw" onClick={sliceWords}></i></button>
+            <button className="btn-floating myComplementThemeColorBG"><i className={`fa fa-microphone${isMute ? '-slash' : ''}`} onClick={switchMute}></i></button>
+            <button className={`btn-floating myThemeColorBG ${isPawDisabled ? 'disabled' : ''}`}><i className="fas fa-paw" onClick={sliceWords}></i></button>
             <button className="btn-floating myComplementThemeColorBG"><i className="fas fa-list" onClick={chooseWordList}></i></button>
+          </div>
+          <div className="hskCardBtnHolder" style={{ marginTop: '20px' }}>
+            <button className={`btn-floating myThemeColorBG disabled`}><i className="fas fa-radiation" onClick={chooseWordList}></i></button>
+            <Link to={`/cards/${wordListIndex}`} className="btn-floating myThemeColorBG"><i className="fab fa-firefox" onClick={switchPage}></i></Link>
+            <button className={`btn-floating myThemeColorBG disabled`}><i className="fas fa-radiation" onClick={chooseWordList}></i></button>
           </div>
         </div>
       </div>

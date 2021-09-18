@@ -1,4 +1,4 @@
-import { HSKStageName, HSKWordInterface } from "../interfaces/HSKWordInterface";
+import { HSKStageIndex, HSKStageName, HSKWordInterface } from "../interfaces/HSKWordInterface";
 import hsk1 from "./hsk1";
 import hsk2 from "./hsk2";
 import hsk3 from "./hsk3";
@@ -25,6 +25,6 @@ export const getWordList = (type: HSKStageName) => {
   }
 } 
 
-export const getWordListByIndex = (index: (0 | 1 | 2 | 3 | 4)) => {
+export const getWordListByIndex = (index: HSKStageIndex) => {
   return wordListArray[index].words;
 } 
