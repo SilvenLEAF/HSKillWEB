@@ -17,6 +17,7 @@ import Nouislider from "nouislider-react";
 import "nouislider/distribute/nouislider.css";
 import { getWords } from '../../DATA/getData';
 import { getWordList, getWordListByIndex, hskWordList } from '../../DATA/getWordList';
+import { CollectionContext } from '../../contexts/subContexts/CollectionContext';
 
 const WordListSlider = ({ storeRangeVal, lower, upper, min, max }: { storeRangeVal: any, lower: any, upper: any, min: number, max: number }) => (
   <Nouislider
@@ -79,6 +80,8 @@ function Controller({
   const [playReverseSound] = useSound(reverseAudio);
   const [playSwitchPageSound] = useSound(switchPageAudio);
 
+  const { collections } = useContext(CollectionContext)
+
   const [localLower, setLocalLower] = useState(rangeLower);
   const [localUpper, setLocalUpper] = useState(rangeUpper);
 
@@ -130,53 +133,58 @@ function Controller({
     setWordListIndex(updatedIndex)
     setWordList(getWordListByIndex(updatedIndex))
   }
+  
+  const chooseCollection = () => {
+    !isMute && playShuffleSound();
+    const collectionNames = Object.keys(collections);
+    setWordIndex(wordListIndex+1)
+    setWordList(getWordListByIndex(wordListIndex))
+  }
 
   const switchPage = () => {
     !isMute && playSwitchPageSound()
   }
 
   return (
-    <div className="container center" >
 
 
-      <div className="hskCard card center">
-        <div className="card-content">
-          <div className="hskCardBtnHolder">
-            <button className="btn-floating myThemeColorBG" onClick={randomWordList}>
-              <i className={isRandom ? 'fa fa-random' : 'fab fa-buffer'}></i>
-            </button>
-            <button className="btn-floating myComplementThemeColorBG" onClick={() => { !isMute && playEyeSound(); setIsMainHidden(!isMainHidden) }}>
-              <i className={`fa fa-${isMainHidden ? 'eye-slash' : 'eye'}`}></i>
-            </button>
-            <button className="btn-floating myThemeColorBG" onClick={reverseWordList}>
-              <i className={`fa fa-${isReversed ? 'backward' : 'forward'}`}></i>
-            </button>
-          </div>
+    <div className="hskCard card center">
+      <div className="card-content">
+        <div className="hskCardBtnHolder">
+          <button className="btn-floating myThemeColorBG" onClick={randomWordList}>
+            <i className={isRandom ? 'fa fa-random' : 'fab fa-buffer'}></i>
+          </button>
+          <button className="btn-floating myComplementThemeColorBG" onClick={() => { !isMute && playEyeSound(); setIsMainHidden(!isMainHidden) }}>
+            <i className={`fa fa-${isMainHidden ? 'eye-slash' : 'eye'}`}></i>
+          </button>
+          <button className="btn-floating myThemeColorBG" onClick={reverseWordList}>
+            <i className={`fa fa-${isReversed ? 'backward' : 'forward'}`}></i>
+          </button>
+        </div>
 
-          <div className="wordListSliderHolder">
-            <WordListSlider
-              storeRangeVal={storeRangeVal}
-              lower={localLower} upper={localUpper}
-              min={0} max={wordList.length}
-            />
-          </div>
+        <div className="wordListSliderHolder">
+          <WordListSlider
+            storeRangeVal={storeRangeVal}
+            lower={localLower} upper={localUpper}
+            min={0} max={wordList.length}
+          />
+        </div>
 
-          <div className="wordListSliderVal">{`HSK${wordListIndex + 1}`.toUpperCase()}: {localLower !== wordList.length ? localLower + 1 : localLower}/{localUpper}</div>
-          <div className="hskCardBtnHolder">
-            <button className="btn-floating myComplementThemeColorBG"><i className={`fa fa-microphone${isMute ? '-slash' : ''}`} onClick={switchMute}></i></button>
-            <button className={`btn-floating myThemeColorBG ${isPawDisabled ? 'disabled' : ''}`}><i className="fas fa-paw" onClick={sliceWords}></i></button>
-            <button className="btn-floating myComplementThemeColorBG"><i className="fas fa-list" onClick={chooseWordList}></i></button>
-          </div>
-          <div className="hskCardBtnHolder" style={{ marginTop: '20px' }}>
-            <button className={`btn-floating myThemeColorBG disabled`}><i className="fas fa-radiation" onClick={chooseWordList}></i></button>
-            <Link to={`/cards/${wordListIndex}`} className="btn-floating myThemeColorBG"><i className="fab fa-firefox" onClick={switchPage}></i></Link>
-            <button className={`btn-floating myThemeColorBG disabled`}><i className="fas fa-radiation" onClick={chooseWordList}></i></button>
-          </div>
+        <div className="wordListSliderVal">{`HSK${wordListIndex + 1}`.toUpperCase()}: {localLower !== wordList.length ? localLower + 1 : localLower}/{localUpper}</div>
+        <div className="hskCardBtnHolder">
+          <button className="btn-floating myComplementThemeColorBG"><i className={`fa fa-microphone${isMute ? '-slash' : ''}`} onClick={switchMute}></i></button>
+          <button className={`btn-floating myThemeColorBG ${isPawDisabled ? 'disabled' : ''}`}><i className="fas fa-paw" onClick={sliceWords}></i></button>
+          <button className="btn-floating myComplementThemeColorBG"><i className="fas fa-list" onClick={chooseWordList}></i></button>
+        </div>
+        <div className="hskCardBtnHolder" style={{ marginTop: '20px' }}>
+          <button className={`btn-floating myThemeColorBG disabled`}><i className="fas fa-radiation" onClick={chooseWordList}></i></button>
+          <Link to={`/cards/${wordListIndex}`} className="btn-floating myThemeColorBG"><i className="fab fa-firefox" onClick={switchPage}></i></Link>
+          <button className={`btn-floating myThemeColorBG disabled`}><i className="fas fa-radiation" onClick={chooseWordList}></i></button>
         </div>
       </div>
-
-
     </div>
+
+
   )
 }
 

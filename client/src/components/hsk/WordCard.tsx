@@ -17,6 +17,7 @@ import reverseAudio from '../../sounds/sound-6.wav';
 import MyLoader from '../../helpers/MyLoader';
 import { getWordList, getWordListByIndex, wordListArray } from '../../DATA/getWordList';
 import { HSKStageIndex } from '../../interfaces/HSKWordInterface';
+import Addmodal from './Addmodal';
 
 
 function WordCard() {
@@ -35,10 +36,10 @@ function WordCard() {
   const [isMute, setIsMute] = useState(false);
   const [isReversed, setIsReversed] = useState(false);
   const [isRandom, setIsRandom] = useState(false);
-  const [wordListIndex, setWordListIndex] = useState<HSKStageIndex>(0);
-  // const [wordListType, setWordListType] = useState<("hsk3" | "hsk4" | "hsk5")>(wordListArray[0].type);
+  const [wordListIndex, setWordListIndex] = useState<HSKStageIndex>(3);
+  // const [wordListType, setWordListType] = useState(getWordListByIndex(wordListIndex));
   const [wordList, setWordList] = useState(getWordListByIndex(wordListIndex));
-  
+
   const [rangeLower, setRangeLower] = useState(0);
   const [rangeUpper, setRangeUpper] = useState(wordList.length);
 
@@ -74,12 +75,20 @@ function WordCard() {
     if (wordIndex > 0) setWordIndex(wordIndex - 1)
     else setWordIndex(0)
   }
+  const handleAdd = () => {
+    !isMute && playNavSound();
+    setIsMainHidden(!isMainHidden)
+    setIsModelHidden(!isMainHidden)
+  }
 
   const [isMainHidden, setIsMainHidden] = useState(false);
+  const [isModelHidden, setIsModelHidden] = useState(false);
 
   return (
     <>
-      <div className="container center" >
+      <Addmodal isMute={isMute} setIsMute={setIsMute} currentWord={ word } />
+
+      <div className="container center">
         <div className="hskCard card center">
           <div className="card-image" onDoubleClick={() => setIsMainHidden(!isMainHidden)}>
             <div className="cardHanzi" style={{ display: isMainHidden ? 'none' : 'block' }}>{word.hanzi}</div>
@@ -88,14 +97,14 @@ function WordCard() {
             {/* <a href="#" className="btn-floating halfway-fab"><i className="fa fa-plus"></i></a> */}
           </div>
           <div className="card-content">
-            <p className="wordProgress">{`${ `HSK${wordListIndex + 1}`.toUpperCase() }: ${wordIndex + 1}/${wordList.length}`}</p>
+            <p className="wordProgress">{ `${`HSK${wordListIndex + 1}`.toUpperCase()}: ${wordIndex + 1}/${wordList.length}`}</p>
             <div className="wordDescription">{ }</div>
 
             <div className="hskCardBtnHolder">
               <button className={`btn-floating myThemeColorBG ${wordIndex === 0 ? 'disabled' : ''}`} onClick={goPrev}>
                 <i className="fa fa-arrow-left"></i>
               </button>
-              <button className="btn-floating myComplementThemeColorBG disabled">
+              <button data-target="addModal" className="modal-trigger btn-floating myComplementThemeColorBG" onClick={handleAdd}>
                 <i className="fa fa-plus"></i>
               </button>
               <button className={`btn-floating myThemeColorBG ${wordIndex === wordList.length - 1 ? 'disabled' : ''}`} onClick={goNext}>
@@ -105,20 +114,18 @@ function WordCard() {
             </div>
           </div>
         </div>
-
-
+        <Controller
+          isMainHidden={isMainHidden} setIsMainHidden={setIsMainHidden}
+          isRandom={isRandom} randomWordList={randomWordList}
+          isReversed={isReversed} reverseWordList={reverseWordList}
+          rangeLower={rangeLower} setRangeLower={setRangeLower}
+          rangeUpper={rangeUpper} setRangeUpper={setRangeUpper}
+          wordList={wordList} setWordList={setWordList}
+          isMute={isMute} setIsMute={setIsMute}
+          wordListIndex={wordListIndex} setWordListIndex={setWordListIndex}
+          wordIndex={wordIndex} setWordIndex={setWordIndex}
+        />
       </div>
-      <Controller
-        isMainHidden={isMainHidden} setIsMainHidden={setIsMainHidden}
-        isRandom={isRandom} randomWordList={randomWordList}
-        isReversed={isReversed} reverseWordList={reverseWordList}
-        rangeLower={rangeLower} setRangeLower={setRangeLower}
-        rangeUpper={rangeUpper} setRangeUpper={setRangeUpper}
-        wordList={wordList} setWordList={setWordList}
-        isMute={isMute} setIsMute={setIsMute}
-        wordListIndex={wordListIndex} setWordListIndex={setWordListIndex}
-        wordIndex={wordIndex} setWordIndex={setWordIndex}
-      />
     </>
   )
 }

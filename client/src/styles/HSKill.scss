@@ -68,3 +68,65 @@
 .exampleSentence {
   font-family: 'Noto Serif SC', serif;
 }
+
+
+
+// modal
+#addModal {
+  // min-width: 700px;
+  background-color: rgba($color: #fff, $alpha: 1);
+
+  .modal-content {
+    .collectionBtnHolder {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+  
+      button {
+        margin: 5px;
+      }
+    }
+  
+   
+    .addCustomBtnHolder {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-flow: wrap;
+      flex-direction: column;
+      
+      .customCollectionNameInput {
+        width: 100px;
+      }
+  
+    }
+  }
+
+  .myDefaultForm {
+    margin: 0 auto !important;
+    margin-top: 0;
+
+    @include mQ(800px){
+       .myDefaultFormName {
+         margin-top: 0;
+       }
+      margin-top: 0px;    
+      margin-bottom: 0;
+    }
+    .myInputHolder input {
+      padding: 5px;
+      text-align: center;
+      height: 20px;
+    }
+  }
+
+
+
+  .modal-footer {
+    margin: 5px 0;
+    button {
+      margin-right: 10px;
+    }
+  }
+}

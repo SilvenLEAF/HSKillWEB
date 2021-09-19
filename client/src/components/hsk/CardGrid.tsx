@@ -17,6 +17,7 @@ import navAudio from '../../sounds/sound-1.wav';
 import reverseAudio from '../../sounds/sound-6.wav';
 import MyLoader from '../../helpers/MyLoader';
 import { getWordListByIndex } from '../../DATA/getWordList';
+import Addmodal from './Addmodal';
 
 
 function CardGrid(props: any) {
@@ -37,7 +38,7 @@ function CardGrid(props: any) {
   const [isMute, setIsMute] = useState(false);
   const [isReversed, setIsReversed] = useState(false);
   const [isRandom, setIsRandom] = useState(false);
-  // const [wordListType, setWordListType] = useState<("hsk3" | "hsk4" | "hsk5")>(wordListArray[0].type);
+  // const [wordListType, setWordListType] = useState>(getWordListByIndex(wordListIndex).type);
   const [wordList, setWordList] = useState(getWordListByIndex(wordListIndex));
 
   const [rangeLower, setRangeLower] = useState(0);
@@ -64,6 +65,7 @@ function CardGrid(props: any) {
   }
 
   const [isMainHidden, setIsMainHidden] = useState(false);
+  const [currentWord, setCurrentWord] = useState(wordList[wordIndex]);
 
   const cardTouched = (e: React.MouseEvent<HTMLDivElement>) => {
     const el = e.currentTarget;
@@ -78,6 +80,7 @@ function CardGrid(props: any) {
     !isMute && playNavSound();
 
     el.classList.toggle('cardIsHard')
+    // el.classList.toggle('modal-trigger')
 
   }
 
@@ -93,6 +96,7 @@ function CardGrid(props: any) {
 
   return (
     <>
+      {/* <Addmodal currentWord={currentWord} isMute={isMute} setIsMute={setIsMute} /> */}
       <div className="gridCardsBtnHolder">
         <button className="btn-floating myComplementThemeColorBG"><i className={`fa fa-microphone${isMute ? '-slash' : ''}`} onClick={switchMute}></i></button>
         <Link to="/" className={`btn-floating myThemeColorBG`} onClick={switchPage}><i className="fas fa-paw"></i></Link>

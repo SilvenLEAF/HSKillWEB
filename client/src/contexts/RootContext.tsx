@@ -2,6 +2,7 @@ import React from 'react'
 import AllUserContextProvider from './subContexts/AllUserContext'
 import AllTaskContextProvider from './subContexts/AllTaskContext'
 import HSKContextProvider from './subContexts/HSKContext'
+import CollectionContextProvider from './subContexts/CollectionContext'
 
 
 
@@ -14,15 +15,17 @@ interface propsInterface {
 function RootContext(props: propsInterface) {
   return (
     <>
-      <HSKContextProvider>
-        <AllUserContextProvider>
-          <AllTaskContextProvider>
+      <CollectionContextProvider>
+        <HSKContextProvider>
+          <AllUserContextProvider>
+            <AllTaskContextProvider>
 
-            {props.children}
+              {props.children}
 
-          </AllTaskContextProvider>
-        </AllUserContextProvider>
-      </HSKContextProvider>
+            </AllTaskContextProvider>
+          </AllUserContextProvider>
+        </HSKContextProvider>
+      </CollectionContextProvider>
 
     </>
   )
