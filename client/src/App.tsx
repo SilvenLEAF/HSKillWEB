@@ -45,7 +45,7 @@ function App() {
 
 
   return (
-    <BrowserRouter basename="/HSKill">
+    <BrowserRouter basename="/HSKillWEB">
       <AuthContext.Provider value={{ userData, setUserData }} >
         <RootContext >
           <div className="App"><RootAppStucture/></div>
